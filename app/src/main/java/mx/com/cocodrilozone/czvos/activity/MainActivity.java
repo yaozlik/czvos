@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void getResponse(String response) {
-        Log.d("reply", response + "-");
+        Log.d("reply22222", response + "-");
     }
 
 }
