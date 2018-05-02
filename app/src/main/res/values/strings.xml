@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">czvos</string>
+    <string name="pass">Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string-array name="formato">
+        <item>Selecciona un Formato</item>
+        <item>Formato 1</item>
+        <item>Formato 2</item>
+        <item>Fromato 3</item>
+    </string-array>
+    <string-array name="PDV">
+        <item>Selecciona un PDV</item>
+        <item>PDV 1</item>
+        <item>PDV 2</item>
+        <item>PDV 3</item>
+    </string-array>
+    <string-array name="numero">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="premio">
+        <item>Selecciona un premio</item>
+        <item>Hinds</item>
+        <item>Vale de Gasolina</item>
+        <item>Balón</item>
+        <item>Maleta</item>
+        <item>Camiseta</item>
+    </string-array>
+</resources>
